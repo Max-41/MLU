@@ -43,7 +43,7 @@ var maps = {
             "128.0.0": "inconnu"
         }
     },
-    "la_dimension_des_cites": {
+    "Stratos": {
         "infos": {
             "title": "La dimension des cités",
             "description": "",
@@ -97,7 +97,7 @@ var maps = {
         },
         "path": {}
     },
-    "sceau_de_lave": {
+    "Monde des cités": {
         "infos": {
             "title": "Le sceau de lave",
             "description": "C'est de la lave dedans",
@@ -107,7 +107,7 @@ var maps = {
             "0.255.0": "la_dimension_des_cites"
         }
     },
-    "stratos": {
+    "Eligna": {
         "infos": {
             "title": "Stratos",
             "description": "Des batiments encore",
