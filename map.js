@@ -120,7 +120,7 @@ var maps = {
     "l_ile_volcanique": {
         "infos": {
             "title": "L'île volcanique",
-            "description": "",
+            "description": "L'île volcanique est une île avec un volcan et une petite forêt l'entourant, c'est là bas que l'humanité commença à apparaître, c'est après en nageant que les premiers hommes encore à moitié primates ont rejoint le plus grand continent intrigué par aller voir ces grandes terres. Ainsi on y trouve les premières pierres taillées et les premiers langages dessinés sur les murs des grottes. C'est donc sur cette île à présent abandonnée que la cellule décide d'apparaître pour créer le nouveau monde. Il y à une aura presque mystique avec ce lieu sans réel raison, c'est sur cette île que le cavalier des évènements et de la matière ont décidé d'attendre le nouveau monde, car l'événement de l'arrivée de l'homme fut sur cette terre sous les yeux dépité des cavaliers de l'apocalypse quand un être aquatique commença à s'avancer sur la plage, et c'est aussi le premier endroit où la matière fut modelés par l'homme. M.Event apprécie le lieu car les premières pensées humaines y sont nées par des dessins, des sonorité pour s'exprimer, et Matter car c'est l'endroit que là cellule à choisi pour apparaître.",
             "frames": "1",
         },
         "path": {
@@ -151,7 +151,7 @@ var maps = {
     "l_uniterre": {
         "infos": {
             "title": "L'Uniterre",
-            "description": "",
+            "description": "L'Uniterre est en quelque sorte la capitale du multivers, c'est une planète immense où ont trouve beaucoup de point d'intérêt tel que le trio X, la demeure de celui qui à créer le voyage entre les dimensions, une des plus grandes églises de l'œil. Ont y retrouve aussi les soigneurs les plus compétent de l'univers mais encore les écoles les plus prestigieuses. En interne ont retrouvé commerce, boîte de nuit, des espèces du monde entier y viennent, blob, change-peau, anthropomorphe, humain, et autres. Sa place centrale est un grand cercle en forme d'œil en référence au culte le plus répandu dans cet univers, c'est en effet un des rares univers où le culte ne dérive pas et vie en harmonie avec la société et où chacun respecte et croit cette religion. De part l'extrême grandeur de cette terre les populations se concentrent beaucoup sur la capitale, les autres terres étant des sorte de relique historique de ce monde qui fut une des premières bulles crée, ici on trouve donc des architectures et des lieux clés, ainsi que des lieux sacrés. Si vous cherchez des technologies particulières, avez soif d'histoire et de connaissance c'est ici qu'il faut venir. Son horloge mesure l'heure, la minute et les jours d'une drôle de manière. La planète est généralement stable économiquement et socialement en ce qui concerne sa capitale, c'est donc un des endroits les plus sûrs au vu de ses nombreux défenseurs et système de défense tel que des champ de force magnétique. Une grande partie de l'efficacité de cette ville est due au docteur Reverso qui à partager ses inventions et création gratuitement au monde pour favoriser l'évolution de l'homme. En s'éloignant de la capitale les paysages varient, des montagnes, des marécages, des zones contrôlées par des forces de la nature ou par des 'dieu', attention, ici le nom de dieu designe un grade que l'on donne à ceux qui excellent de manière incontestable quelque part et dont leur talent est reconnu partout, ces gens viennent généralement sur ces terres pour exercer leur talent où il est mit en valeur, ainsi vous pouvez croisé le dieu de la musique, le dieu de la guerre et bien d'autres, ces gens sont soit des nomades soit ont un territoire entier sur ces terres.",
             "frames": "1",
         },
         "path": {
@@ -363,7 +363,7 @@ var maps = {
     "le_trio_x": {
         "infos": {
             "title": "Le trio X",
-            "description": "",
+            "description": "Le trio X est un bâtiment rectangulaire proche du centre, c'était un bâtiment désaffecté avant que Mike le rénove pour monter son entreprise de création d'armes et de technologie. N'importe qui peut venir commander un objet et le prix dépend des de la rareté des matériaux et de la complexité. Paradoxalement le bâtiment est très grand mais il n'y à comme employé qu'une personne à savoir Alice la meilleure amie de Mike, son nom est une référence aux créateurs qui étaient un trio, lui, Alice et Celestia qui quittera le groupe pour exercer ses capacités ailleurs lassé par resté au même endroit. Le trio X sera ensuite rejoint par Zoé et Max. Le bâtiment dispose d'un ascenseur et de trois sous sol, et était calme et silencieux avant Max et Zoé, maintenant il est un peu plus animé. Au-delà de ses services en termes de création de technologie et d'arme, le trio X à une fonction secrète qui est de tenir tête au poisson, protéger le multivers contre certaines menaces, récupérer des artefacts tels que la Chevalbarde, récupérer des composants sur des territoires dangereux ou abandonnés. Le trio X à ainsi des avantages en terme de placement et reçoit une forte demande, une majorité étant la création d'objets de souvenirs ou de décoration ce qui déprime Mike qui espérait beaucoup plus de réel demande technologique pour des entreprises ou d'armements, mais ce commerce reste une bonne couverture pour créer ses propres technologies et rendre crédible certaines actions aux yeux de la haute autorité.",
             "frames": "1",
         },
         "path": {
@@ -381,7 +381,7 @@ var maps = {
     "les_montagnes_du_sud": {
         "infos": {
             "title": "Les montagnes du sud",
-            "description": "",
+            "description": "Les montagnes du sud est un continent extrêmement petit montagneux, on y vit de chasse ou de culture de plantes qui poussent dans les environnements froids. Jeff à une maison dans les hauteurs où il loge Adam pour l'entraîner. Selon lui, affronter seul les ours ou des meutes de loups sont les meilleurs moyens pour s'entraîner, sa ville principale est en contrebas. C'est un continent assez calme il ne s'y passe quasiment jamais rien et il exporte mais importe en soit assez peu car n'a pas réellement besoin de plus. Il est loin des problématiques et des drames du continent principal. Cette maison qui est celle de Jeff fut construit par lui même avec l'aide d'un architecte locale à base de bois de sapin, vivre si haut en solitaire dans les montagnes est tant pour décourager les potentiels poursuivant de l'armée de la couronne que pour bénéficier d'un cadre naturel, brute et rude parfait pour développer le plein potentiel de la survie humaine.",
             "frames": "1",
         },
         "path": {
@@ -472,7 +472,7 @@ var maps = {
     "ou_voulez_vous_aller": {
         "infos": {
             "title": "Où voulez-vous aller ?",
-            "description": "",
+            "description": "Vous êtes dans l'ascenseur, il y à plusieurs choix de destination, le dernier sous sol à un petit papier scotché avec écrit 'non', il y à une petite fente à côté où inséré une clé pour appuyer sur le bouton, il y à aussi un bouton pour bloquer l'ascenseur pour des raisons floue, et… est ce que c'est un bouton pour faire exploser l'ascenseur ?!",
             "frames": "1",
         },
         "path": {
